@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#000</color>
+    
+    <!--Drum colors-->
+    <color name="Darkred">#d32f2f</color>
+    <color name="Lightred">#ef9a9a</color>
+
+    <color name="Darkpurple">#7b1fa2</color>
+    <color name="Lightpurple">#ce93d8</color>
+
+    <color name="Darkblue">#512da8</color>
+    <color name="Lightblue">#b39ddb</color>
+
+    <color name="Darkseablue">#1976d2</color>
+    <color name="Lightseablue">#90caf9</color>
+
+    <color name="Darkcyan">#0097a7</color>
+    <color name="Lightcyan">#80deea</color>
+
+    <color name="Darkteal">#00796b</color>
+    <color name="Lightteal">#80cbc4</color>
+
+    <color name="Darkgreen">#2e7d32</color>
+    <color name="Lightgreen">#a5d6a7</color>
+
+    <color name="Darklime">#afb42b</color>
+    <color name="Lightlime">#e6ee9c</color>
+
+    <color name="Darkamber">#ffa000</color>
+    <color name="Lightamber">#ffe082</color>
+</resources>
